@@ -2,6 +2,7 @@ import React from 'react'
 import Buttons from './components/Buttons'
 import Input from './components/Input'
 import TimeAndLocation from './components/TimeAndLocation'
+import Details from './components/Details'
 
 
 const App = () => {
@@ -11,6 +12,7 @@ const App = () => {
     <Buttons/>
     <Input/>
     <TimeAndLocation/>
+    <Details/>
     </div>
     </>
   )
